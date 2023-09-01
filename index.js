@@ -13,14 +13,6 @@ const User = require('./models/user');
 
 let PORT=8000;
 
-// if(process.env.NODE_ENV=="production"){
-//     PORT = process.env.PORT || 8000;
-// }
-// else{
-//     PORT = 8000;
-// }
-
-
 // Use the built-in middleware for parsing incoming request bodies to use req body data
 app.use(express.json()); // for parsing application/json
 app.use(express.urlencoded({ extended: true })); // for parsing application/x-www-form-urlencoded
