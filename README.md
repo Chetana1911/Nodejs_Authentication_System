@@ -1,8 +1,8 @@
 # Nodejs_Authentication_System
 A Authentication System build using Nodejs.
 
-# Complete authentication app that lets user sign up, sign in, reset password, sign in using social accounts, also maintains log in session upto preset time. 
-# Hosted on render.com : https://nodejs-authentication-system-io5v.onrender.com
+ Complete authentication app that lets user sign up, sign in, reset password, sign in using social accounts, also maintains log in session upto preset time. 
+ Hosted on render.com : https://nodejs-authentication-system-io5v.onrender.com
 
 # Tech used:
 1. NodeJS
